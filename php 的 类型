@@ -3,6 +3,10 @@
 //需要注意的是几个类型的特殊转换bool值
 
 -1负数的布尔数值true
+字符串和 0 比较为 true
+空字符窜和 0比较为 true
+null 和 0 比较为 true
+0 和 空数组比较为false
 
-
-
+null 的布尔值为 false
+null 和 0 空数组 空字符串比较都是 true
