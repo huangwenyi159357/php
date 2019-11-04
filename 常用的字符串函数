@@ -1,0 +1,22 @@
+字符串长度strlen()
+中文字符串长度 mb_strlen()
+将字符串拆分成更细的单个字符 chunk_split()  可以按照特殊字符在后面添加
+将字符串分割 str_split() 按照数字长度来分割
+将字符串按照特定的符号分割 explode()
+返回字符串所有出现的字符串 不重复 count_chars() 返回每个出现的字符串
+返回字符串中每个词 str_word_count() 返回每个字符串的字符
+把字符串按照字符来分割 str_split() 返回一个数组
+把字符串首字母改成小写 lcfirst()
+把字符串首字母改成大写 ucfirst()
+去除字符串两边空格 ltrim()  rtrim()
+字符串重复次数 str_repeat()
+字符串随机打乱 str_shuffle()
+字符串替换 str_replace()  对大小写明感 str_ireplace() 对大小不敏感
+去除html的标签 strip_tags()
+strstr()一个字符串在另一个字符串出现的位子，返回找到的字符位子的剩余字符 stristr() 对大小写不敏感
+strpos()一个字符串在另一个字符串出现的位子，返回的是一个数字 stripos()对大小不敏感
+字符串反转 strrev()
+字符串 每个首字母大写 ucwords()
+substr_count() 返回字符串中的某个字符出现的字数 
+substr_replace() 字符串中的字符替换
+substr() 截取字符串
