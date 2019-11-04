@@ -1,0 +1,35 @@
+统计数组长度 count()
+数组的所有键array_keys()
+数组的所有值array_values()
+数组的所有值出现的次数 array_count_values()
+数组中的键是否存在 array_key_exists()
+数组的键值反转 array_flip()
+数组的顺序反转 array_reverese()
+获取数组中的某一列的所有值 array_column()
+数组求和 array_sum()
+数组的合并 array_merger() 把多个数组合并一个数值
+数组合并 array_merge_recursive() 和上面不同的是这个合并 如果是键相同，那么返回相同键的值是一个数组
+2个数组的差集 array_diff()
+删除数组中的重复值array_unique()
+
+
+
+
+元素的操作
+删除第一个元素 array_shift()
+数组开头增加一个元素 array_unshift()
+数组尾部删除一个元素 array_pop()
+数组尾部添加一个元素 array_push()
+
+随机函数类
+将数组随机打乱排序 shuffle()
+数组中随机获取多个值函数 array_rand() 返回的是一个键
+在范围内生成某个数组的递增排序  range()
+
+数组的切割 
+将数组按照某个数来分组切割分组，生成一个新数组 array_chunk()
+获取数组在范围的数组  array_slice() 
+数组的替换  2个数组替换部分数组 array_splice()
+
+
+
